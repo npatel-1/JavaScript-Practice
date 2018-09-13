@@ -34,7 +34,7 @@
 //    they are 0 based, so they start with 0 then 1 then 2 etc. in this case red is 0, blue is 1 and green is 2.
 // var colors = ['red', 'blue', 'green'];
 //    or you could do
-var colors = new Array('red', 'blue', 'orange');
+// var colors = new Array('red', 'blue', 'orange');
 //    this will display all values in the array
 // alert(colors);
 //    this will displa blue
@@ -42,6 +42,6 @@ var colors = new Array('red', 'blue', 'orange');
 //    this will add on to the values in the array
 // alert(colors) = 'green';
 //    or you could do
-colors.push('purple');
+// colors.push('purple');
 //    this will display purple because we added purple and it is number 3 in the array
-alert(colors[3]);
+// alert(colors[3]);
